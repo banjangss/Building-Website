@@ -1,5 +1,17 @@
-Lecture from Lynda.com (HTML5: Structure, Syntax, and Semantics) Summary
+1) Environment
+  -Editor: Brackets
+  -HTML outline checking tool (ex. HTML5 Outliner add-on for Chrome, https://gsnedders.html5.org/outliner)
 
--Semantics: giving a meaning for each tags
--Quick sum for each tags
-(1) Header: containing instroduction and navigation
+2) Lecture from Lynda.com (HTML5: Structure, Syntax, and Semantics)
+
+3) Lecture Summary
+  -Semantics: giving a meaning for each tags
+  -Basic tags and Quick sum for each: https://www.w3.org/TR/html5/dom.html#elements-in-the-dom
+      (1) 
+      (2) Header: containing instroduction and navigation
+      (3) Footer: does not need to be in bottom
+      (4) Figure: illustration, diagram, photo, code listings, etc
+        (4-1)Figcpation: Description of the figure
+      (5) div: pure grouping tag for design
+  
+
